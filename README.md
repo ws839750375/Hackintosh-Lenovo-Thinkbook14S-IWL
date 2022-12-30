@@ -1,10 +1,6 @@
 # Thinkbook14S-IWL-EFI-OpenCore
  Lenovo Thinkbook 14s OpenCore EFI for Hackintosh
 
-Hello everyone.
-
-So, I created this repository to share my OpenCore configuration on Lenovo Thinkbook-14S-IWL. Hopefully this will help someone who has same machine to install Hackintosh.
-
 MacOs Version: MacOS Vemtura
 
 OpenCore Version: 0.8.7
@@ -58,4 +54,8 @@ Note:
 You can use GenSMBIOS to generate SMBIOS.
 Use ProperTree to edit config.plist.
 
+
 please change the config.plist Seriea numer with SMBIOS first.
+
+
+Thanks for [cupugila](https://github.com/cupugila/Thinkbook-13s-IWL-EFI-Hackintosh) bigsur opencore 0.7.2 repository. upgraded from his repository.
