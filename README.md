@@ -35,7 +35,7 @@ What's Working:
 |USB Type-C|	tested with USB type C hub|
 |Camera|
 |Battery Indicator|	
-|Brightness	Keyboard shortcut is working|
+|Brightness|	Keyboard shortcut is working|
 |Wifi|	using itlwm+Heliport|
 |Bluetooth| tested with airpodspro2|
 |HDMI|
