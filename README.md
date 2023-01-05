@@ -51,7 +51,7 @@ Bug: Ventura Wireless need use itlwm.kext 2.2.0 version and Heliport tool to sta
 
 Note:
 
-You can use GenSMBIOS to generate SMBIOS.
+I deleted all product information of config.plist, You can use GenSMBIOS to generate SMBIOS.
 Use ProperTree to edit config.plist.
 
 
