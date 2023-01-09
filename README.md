@@ -1,7 +1,7 @@
 # Thinkbook14S-IWL-EFI-OpenCore
  Lenovo Thinkbook 14s OpenCore EFI for Hackintosh
 
-MacOs Version: MacOS Vemtura 13.1
+MacOs Version: MacOS Ventura 13.1
 
 OpenCore Version: 0.8.7
 
